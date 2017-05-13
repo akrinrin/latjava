@@ -3,11 +3,10 @@ import java.util.*;
 
 public class Hitung
 {
-	public static void hitung(String[] args)
+	public static void main(String[] args)
 	
 	{
-			
-			
+      //def jumlah
 			int score = 0;
 			int benar=0;
 			int salah=0;
